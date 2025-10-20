@@ -406,6 +406,36 @@
     ]
   },
   {
+    "id": "hero-video",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "url",
+        "label": "url",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "embed",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "url",
+        "label": "Embed"
+      }
+    ]
+  },
+  {
     "id": "product-details",
     "fields": []
   },
