@@ -409,7 +409,7 @@
     "id": "hero-video",
     "fields": [
       {
-        "component": "reference",
+        "component": "text",
         "valueType": "string",
         "name": "url",
         "label": "url",
