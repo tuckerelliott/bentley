@@ -412,8 +412,7 @@
         "component": "text",
         "valueType": "string",
         "name": "url",
-        "label": "url",
-        "multi": false
+        "label": "url"
       },
       {
         "component": "richtext",
