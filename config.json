@@ -6,9 +6,9 @@
             "headers": {
                 "cs": {
                     "AC-Environment-Id": "372d654f64ce4f69d2fbc5c3e28bf053a062248d8bec90a288e6a87ca9a54007",
-                    "AC-View-ID": "YOUR_HEADER_VALUE",
-                    "AC-Price-Book-ID": "YOUR_HEADER_VALUE",
-                    "AC-Source-Locale": "YOUR_HEADER_VALUE"
+                    "AC-View-ID": "1",
+                    "AC-Price-Book-ID": "1",
+                    "AC-Source-Locale": "1"
                 }
             },
             "commerce-assets-enabled": false,
