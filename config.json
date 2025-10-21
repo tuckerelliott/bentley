@@ -29,7 +29,7 @@
             },
             "plugins": {
                 "picker": {
-                    "rootCategory": "1"
+                    "rootCategory": "2"
                 }
             }
         }
