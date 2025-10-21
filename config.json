@@ -1,8 +1,8 @@
 {
     "public": {
         "default": {
-            "commerce-core-endpoint": "https://na1.api.commerce.adobe.com/372d654f64ce4f69d2fbc5c3e28bf053a062248d8bec90a288e6a87ca9a54007/graphql",
-            "commerce-endpoint": "https://na1.api.commerce.adobe.com/372d654f64ce4f69d2fbc5c3e28bf053a062248d8bec90a288e6a87ca9a54007/graphql",
+            "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/372d654f64ce4f69d2fbc5c3e28bf053a062248d8bec90a288e6a87ca9a54007/graphql",
+            "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/372d654f64ce4f69d2fbc5c3e28bf053a062248d8bec90a288e6a87ca9a54007/graphql",
             "headers": {
                 "cs": {
                     "AC-Environment-Id": "372d654f64ce4f69d2fbc5c3e28bf053a062248d8bec90a288e6a87ca9a54007",
