@@ -4,7 +4,9 @@
 }
 
 .columns img {
-  width: 100%;
+  /* width: 100%; */
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .columns > div > div {
@@ -21,7 +23,7 @@
 
 @media (min-width: 900px) {
   .columns > div {
-    align-items: center;
+    align-items: top;
     flex-direction: unset;
     gap: 24px;
   }
@@ -30,4 +32,8 @@
     flex: 1;
     order: unset;
   }
+}
+
+.columns a.button:any-link {
+    all: unset;
 }

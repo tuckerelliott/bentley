@@ -1,12 +1,14 @@
 .hero-container .hero-wrapper {
   max-width: unset;
-  padding: 0;
+  padding-top: 30px;
+  background-color: #000;
 }
 
 .hero {
   position: relative;
   padding: 40px 24px;
-  min-height: 300px;
+  min-height: 700px;
+  color: #FFF;
 }
 
 .hero h1 {
@@ -14,14 +16,17 @@
   margin-left: auto;
   margin-right: auto;
   color: var(--background-color);
+  font-size: 60px;
+  font-weight: 600;
 }
 
 .hero picture {
   position: absolute;
-  z-index: -1;
+  z-index: 1;
   inset: 0;
   object-fit: cover;
   box-sizing: border-box;
+  width: 50%;
 }
 
 .hero img {
@@ -34,4 +39,15 @@
   .hero {
     padding: 40px 32px;
   }
+}
+
+.hero div:nth-child(2) {
+  margin-left: 52%;
+}
+
+.hero a.button:any-link {
+  background-color: #FFF;
+  color:#000;
+  border-radius: 3px;
+  padding: 1em;
 }
