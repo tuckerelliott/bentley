@@ -17,14 +17,14 @@
                 "environment": "Testing",
                 "environment-id": "372d654f64ce4f69d2fbc5c3e28bf053a062248d8bec90a288e6a87ca9a54007",
                 "store-code": "main_website_store",
-                "store-id": "1",
+                "store-id": 1,
                 "store-name": "Main Website Store",
                 "store-url": "YOUR_STORE_URL",
                 "store-view-code": "default",
-                "store-view-id": "1",
-                "store-view-name": "YDefaault Store View",
+                "store-view-id": 1,
+                "store-view-name": "Default Store View",
                 "website-code": "base",
-                "website-id": "1",
+                "website-id": 1,
                 "website-name": "Main Website"
             },
             "plugins": {
