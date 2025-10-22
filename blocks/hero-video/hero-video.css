@@ -74,7 +74,7 @@ main .section.hero-video-container {
     color: #FFF;
     text-align: left;
     margin-bottom: 40px;
-    line-height: 1;
+    line-height: 1.2;
   }
 
   main .overlay p {
@@ -271,4 +271,11 @@ main .section.hero-video-container {
     top: 20px;
     float: left;
     color: #FFF;
+  }
+
+  .hero-video a.button:any-link {
+    background-color: #FFF;
+    color: #000;
+    border-radius: 3px;
+    padding: 1em;
   }
